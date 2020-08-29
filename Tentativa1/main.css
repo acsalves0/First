@@ -1,0 +1,13 @@
+table{
+    border: dashed aqua 2px;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    padding: 1px;
+    margin: 1px;
+    color: #e4a51f;
+}
